@@ -1,0 +1,5 @@
+/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/ClionAVRTest/cmake-build-debug/CMakeFiles/Production.dir
+/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/ClionAVRTest/cmake-build-debug/CMakeFiles/Debug.dir
+/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/ClionAVRTest/cmake-build-debug/CMakeFiles/Z_DUMMY_TARGET.dir
+/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/ClionAVRTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/ClionAVRTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ClionAVRTest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Production">
+				<Option working_dir="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 Production"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Debug">
+				<Option working_dir="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 Debug"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Z_DUMMY_TARGET">
+				<Option output="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32/Z_DUMMY_TARGET" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPLATFORMIO=60105"/>
+					<Add option="-DARDUINO_AVR_ATmega32"/>
+					<Add option="-DF_CPU=16000000L"/>
+					<Add option="-DARDUINO_ARCH_AVR"/>
+					<Add option="-DARDUINO=10808"/>
+					<Add option="-D__AVR_ATmega32__"/>
+					<Add directory="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/include"/>
+					<Add directory="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/cores/MightyCore"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/variants/standard"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/AVR_examples/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/EEPROM/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/Optiboot_flasher/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/SD/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/SPI/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/SPI1/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/Servo/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/SoftwareSerial/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/Timer/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/Wire/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/Wire1/src"/>
+					<Add directory="/home/kareem/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include-fixed"/>
+					<Add directory="/home/kareem/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include"/>
+					<Add directory="/home/kareem/.platformio/packages/toolchain-atmelavr/avr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 Z_DUMMY_TARGET"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Z_DUMMY_TARGET/fast">
+				<Option output="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32/Z_DUMMY_TARGET" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DPLATFORMIO=60105"/>
+					<Add option="-DARDUINO_AVR_ATmega32"/>
+					<Add option="-DF_CPU=16000000L"/>
+					<Add option="-DARDUINO_ARCH_AVR"/>
+					<Add option="-DARDUINO=10808"/>
+					<Add option="-D__AVR_ATmega32__"/>
+					<Add directory="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/include"/>
+					<Add directory="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/cores/MightyCore"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/variants/standard"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/AVR_examples/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/EEPROM/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/Optiboot_flasher/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/SD/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/SPI/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/SPI1/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/Servo/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/SoftwareSerial/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/Timer/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/Wire/src"/>
+					<Add directory="/home/kareem/.platformio/packages/framework-arduino-avr-mightycore/libraries/Wire1/src"/>
+					<Add directory="/home/kareem/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include-fixed"/>
+					<Add directory="/home/kareem/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/7.3.0/include"/>
+					<Add directory="/home/kareem/.platformio/packages/toolchain-atmelavr/avr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../include/c++/12.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 Z_DUMMY_TARGET/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT\ AVR\ Assignments/1.a\ flashing\ LED/cmake-build-atmega32/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/src/MCAL/DIO Driver/DIO.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/src/MCAL/DIO Driver/DIO.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/src/MCAL/Timer Driver/timer.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/src/MCAL/Timer Driver/timer.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/src/MCAL/interrupt/interrupt.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/src/MCAL/interrupt/interrupt.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/src/MCAL/registers.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/src/MCAL/type.h">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/src/main.c">
+			<Option target="Z_DUMMY_TARGET"/>
+		</Unit>
+		<Unit filename="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/CMakeListsPrivate.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
