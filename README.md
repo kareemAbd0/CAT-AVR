@@ -1,2 +1,3 @@
 # CAT-AVR
-# CAT-AVR
+
+the code is in the src directory
