@@ -2,10 +2,8 @@
 #include"MCAL/Timer Driver/timer.h"
 #include"MCAL/DIO Driver/DIO.h"
 
-
 int main(void)
 {
-    DIO_init('A',0,OUT);
     DIO_init('A',1,OUT);
     DIO_init('A',2,OUT);
     DIO_init('A',3,OUT);
@@ -37,7 +35,6 @@ int main(void)
         DIO_write('A',1,LOW);
         DIO_write('A',6,LOW);
         timer_delay_ms(500);
-
 
         DIO_write('A',2,LOW);
         DIO_write('A',5,LOW);
