@@ -1,5 +1,0 @@
-/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32/CMakeFiles/Production.dir
-/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32/CMakeFiles/Debug.dir
-/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32/CMakeFiles/Z_DUMMY_TARGET.dir
-/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32/CMakeFiles/edit_cache.dir
-/mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/1.a flashing LED/cmake-build-atmega32/CMakeFiles/rebuild_cache.dir

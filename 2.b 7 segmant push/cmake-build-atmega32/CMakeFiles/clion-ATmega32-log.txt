@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /mnt/01D8E842BDCD3EE0/Users/karee/Desktop/coding/C/CAT AVR Assignments/2.b 7 segmant push Select CMakeLists.txt
